@@ -15,7 +15,7 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: #F1EdEE;
   line-height: 48px;
   display: inline;
 }
@@ -23,7 +23,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999999;
+  color: #96BDC6;
   line-height: 29px;
   padding: 10px;
 }
@@ -31,7 +31,7 @@ h2 {
 h3 {
   font-style: italic;
   font-size: 20px;
-  color: #000000;
+  color: #96BDC6;
   line-height: 22px;
 }
 
@@ -87,21 +87,21 @@ a {
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: #96BDC6;
   display: none;
 }
 
-.orange {
+. {
   background-color: #F5AE23;
 }
 
-.orange-text {
-  color: #F5AE23;
+.grey-text2 {
+  color: #625F63;
 }
 
 .white-text {
   font-weight: bold;
-  color: #FFFFFF;
+  color: #FFF2F1;
 }
 
 .gray {
@@ -111,12 +111,12 @@ a {
 }
 
 .dark-gray {
-  background-color: #4A4A4A;
+  background-color: #625F63;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #4F6D7A;
 }
 
 .flex-box {
@@ -148,6 +148,7 @@ ul {
 
 img {
   padding: 10px;
+  width: 100%;
 }
 
 /* Bar chart stuff */
@@ -201,7 +202,7 @@ span {
   margin-right: 5%;
 }
 
-#mapDiv {
+#map-div {
   height: 400px;
   width: 100%;
   padding-bottom: 5%;
